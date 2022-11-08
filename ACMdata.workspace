@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ACMdata" Database="" Version="10000">
+  <Project Name="traversingarray" Path="Day1/Day1.project" Active="No"/>
+  <Project Name="insertionarray" Path="insertionarray/insertionarray.project" Active="No"/>
+  <Project Name="deletionarray" Path="deletionarray/deletionarray.project" Active="No"/>
+  <Project Name="linearsearcharray" Path="searcharray/searcharray.project" Active="No"/>
+  <Project Name="binarysearcharray" Path="binarysearcharray/binarysearcharray.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="traversingarray" ConfigName="Debug"/>
+      <Project Name="insertionarray" ConfigName="Debug"/>
+      <Project Name="deletionarray" ConfigName="Debug"/>
+      <Project Name="linearsearcharray" ConfigName="Debug"/>
+      <Project Name="binarysearcharray" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="traversingarray" ConfigName="Release"/>
+      <Project Name="insertionarray" ConfigName="Release"/>
+      <Project Name="deletionarray" ConfigName="Release"/>
+      <Project Name="linearsearcharray" ConfigName="Release"/>
+      <Project Name="binarysearcharray" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
